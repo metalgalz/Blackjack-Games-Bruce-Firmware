@@ -72,7 +72,8 @@ The interface is divided into a game table and a scoreboard sidebar. The code ad
   4. **Result**: Winner determination and score updates.
 
 ## **📜 License**
-
 This project is open-source. Feel free to use and modify it according to your needs.
 
-*Made with ❤️ using JavaScript for the T-Embed Community.*
+Made with ❤️ using JavaScript for the Bruce Firmware Community.
+
+Github / Discord by : metalgalz
