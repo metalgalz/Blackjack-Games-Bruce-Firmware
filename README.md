@@ -12,7 +12,7 @@ Follow these 3 simple steps to start playing immediately:
 2. **Upload**:  
    * Connect your T-Embed to WiFi (or its Hotspot) to access the **Bruce Web Interface**.  
    * Go to **File Manager**.  
-   * Open the /apps folder.  
+   * Open the /BruceGames folder.  
    * Upload blackjack.js there.  
 3. **Play**:  
    * On your T-Embed screen, open the main menu.  
